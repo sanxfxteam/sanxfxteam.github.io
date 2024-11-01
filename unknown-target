@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laurent Mascherpa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Laurent Mascherpa</h1>
+        <h2>Expert in Company and Game Production Management</h2>
+    </header>
+    <section id="biography">
+        <h3>Biography</h3>
+        <p>Laurent Mascherpa is an expert in Company and Game Production Management, he has 20 years of professional experience in the gaming industry. He occupied key positions inside Ubisoft’s organisation, including Fire Team Manager where he was in charge of auditing and helping more than 20 teams across the world to deliver games on time, quality and budget. His experience also includes shipping 6 AAA games at a Director position.</p>
+    </section>
+    <section id="entrepreneurship">
+        <h3>Entrepreneurship and Mentorship</h3>
+        <p>Beside his game development experience at Ubisoft, Laurent is also an entrepreneur and founded 2 companies. He is actively involved as a mentor with various acceleration programs.</p>
+    </section>
+    <footer>
+        <h3>Contact</h3>
+        <p>Email: laurent@example.com</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/laurentmascherpa">laurentmascherpa</a></p>
+        <p>Twitter: <a href="https://twitter.com/laurentmascherpa">@laurentmascherpa</a></p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
